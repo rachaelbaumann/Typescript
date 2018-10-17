@@ -8,5 +8,6 @@ numbers.pop(); //takes out last number
 console.log(numbers);
 numbers.splice(5); //returns array of first 5 numbers
 console.log(numbers);
-numbers.shift();
+numbers.shift(); // removes first element of array
 console.log(numbers);
+console.log(numbers[3]);

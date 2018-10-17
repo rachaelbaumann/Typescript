@@ -15,3 +15,5 @@ console.log(numbers);
 
 numbers.shift();// removes first element of array
 console.log(numbers);
+
+console.log(numbers[3]);
